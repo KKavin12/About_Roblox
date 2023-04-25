@@ -1,0 +1,152 @@
+h1{
+	
+	color: red;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.c1{
+
+	border: 4px red solid;
+border-radius:20px ;
+text-align: center;
+
+}
+li {
+	
+  font-size: 40px;
+	text-align: center;
+	color: red;
+	
+	}
+	.c2{
+border: 4px purple solid;
+border-radius:20px ;
+	}
+
+	p{
+
+		font-size: 32.5px;
+		color: green;
+	}
+	table {
+text-align: center;
+
+border-radius:15.5px ;
+align-self: center;
+line-height: 1.6em;
+
+box-sizing: border-box;
+font-size: 35px;
+margin-right: auto;
+margin-left: auto;
+
+	}
+
+img{
+
+
+border: 6.6px orange solid;
+display: block;
+margin-right: auto;
+margin-left: auto;
+
+}
+table,th,td{
+
+	border:3px blue solid ;
+}
+
+a:visited{
+
+color: green;
+}
+a:hover{
+
+
+	color:yellow;
+}
+a:active{
+
+
+	color: red;
+}
+.f1{
+background-color: blue;
+	padding: 15px;
+}
+.gg{
+
+	padding-bottom:15px ;
+}
+.f1 lable {
+
+	
+	isplay: block;
+}
+.f1 input[type="text"] {
+
+	padding: 12.5px;
+	width: 100%;
+}
+.c10 {
+
+
+	background-color: blue;
+	color: orange;
+    padding: 12.5px;
+    border: 5.5px yellow solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    text-decoration-color: blue;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
